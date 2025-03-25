@@ -1,6 +1,8 @@
 # TimeSeries_Workforce_Optimization
 Worked with group of 5 using hybrid time-series forecasting models to optimize part-time staffing in retail.
-Please scroll down to see the Python codes.
+
+
+### Please scroll down to see the Python codes & access the jupyter notebook named "ML_Staffing_Solution_Retail" for the complete codes
 ### Final Delivery:
 https://www.canva.com/design/DAGiv6WoJvo/NMFB0ncDZHvOPiuUsBlAOw/edit?utm_content=DAGiv6WoJvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
