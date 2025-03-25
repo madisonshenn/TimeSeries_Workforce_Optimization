@@ -20,7 +20,7 @@ This is a SaaS-based subscription model with tiered pricing—$300/month for sma
 ### Investment Cycle:
 With projected ROI hitting 70.53% by Year 3, the investment thesis is strong—subscription accounts are scaling fast: 40% YoY growth from enterprise, 20% from small stores, and 17% from midsize. Consulting and customization are strategic upsell levers, growing at 16% annually but kept secondary to maintain product-first scalability.
 
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -55,3 +55,4 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 
 import itertools
+```
