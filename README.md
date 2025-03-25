@@ -1,9 +1,10 @@
 # TimeSeries_Workforce_Optimization
-Worked with group of 5 using hybrid time-series forecasting models to optimize part-time staffing in retail
-
+Worked with group of 5 using hybrid time-series forecasting models to optimize part-time staffing in retail.
+Please scroll down to see the Python codes.
 ### Final Delivery:
 https://www.canva.com/design/DAGiv6WoJvo/NMFB0ncDZHvOPiuUsBlAOw/edit?utm_content=DAGiv6WoJvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
+### Product Overview:
 ### Target Buyer: 
 Regional Store Managers like Mark, who oversee operations across multiple retail locations and are responsible for staffing, cost control, and store performance.
 ### Business Problem:
