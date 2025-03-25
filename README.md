@@ -3,10 +3,10 @@ Worked with group of 5 using hybrid time-series forecasting models to optimize p
 
 
 ### Please scroll down to see the Python codes & access the jupyter notebook named "ML_Staffing_Solution_Retail" for the complete codes
-### Final Delivery:
+## Final Delivery:
 https://www.canva.com/design/DAGiv6WoJvo/NMFB0ncDZHvOPiuUsBlAOw/edit?utm_content=DAGiv6WoJvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
-### Product Overview:
+## Product Overview:
 ### Target Buyer: 
 Regional Store Managers like Mark, who oversee operations across multiple retail locations and are responsible for staffing, cost control, and store performance.
 ### Business Problem:
@@ -22,7 +22,8 @@ This is a SaaS-based subscription model with tiered pricing—$300/month for sma
 ### Investment Cycle:
 With projected ROI hitting 70.53% by Year 3, the investment thesis is strong—subscription accounts are scaling fast: 40% YoY growth from enterprise, 20% from small stores, and 17% from midsize. Consulting and customization are strategic upsell levers, growing at 16% annually but kept secondary to maintain product-first scalability.
 
-### Python Codes (Please see the jupyter notebook attached for entire codes)
+## Python Codes
+Access the jupyter notebook named "ML_Staffing_Solution_Retail" for the complete codes
 
 ### Data Cleaning & EDA:
 
