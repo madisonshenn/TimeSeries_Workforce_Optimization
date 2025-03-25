@@ -19,3 +19,39 @@ The model delivers a 12% cut in labor costs by reducing unnecessary part-time hi
 This is a SaaS-based subscription model with tiered pricing—$300/month for small stores, scaling up to $500/month for enterprise clients—designed to flex with business size and needs. Revenue is diversified through API licensing and consulting services for large-scale retailers, but the real growth engine is the subscription tier, built to scale.
 ### Investment Cycle:
 With projected ROI hitting 70.53% by Year 3, the investment thesis is strong—subscription accounts are scaling fast: 40% YoY growth from enterprise, 20% from small stores, and 17% from midsize. Consulting and customization are strategic upsell levers, growing at 16% annually but kept secondary to maintain product-first scalability.
+
+
+`import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.preprocessing import StandardScaler
+from pandas_datareader import data as pdr #read data from yahoo finance api
+import matplotlib.pyplot as plt #viz #GUI manager
+import seaborn as sns #viz #plotly is another package
+import datetime
+from pandas import Grouper #groupby
+#statistical data exploration, conducting statistical tests, and estimation of different statistical models
+import statsmodels.api as sm
+from statsmodels.graphics.tsaplots import plot_acf #autocorrelation plot
+from statsmodels.tsa.api import SimpleExpSmoothing
+from statsmodels.tsa.holtwinters import ExponentialSmoothing # double and triple exponential smoothing
+from pandas.plotting import autocorrelation_plot #autocorrelation plot
+from statsmodels.graphics.gofplots import qqplot #residual diagnostics
+from sklearn.metrics import mean_squared_error #accuracy metrics
+from math import sqrt
+from sklearn.metrics import mean_absolute_error #accuracy metrics
+
+from random import gauss #create gaussian white noise
+from random import seed
+from pandas import Series
+from statsmodels.tsa.stattools import adfuller
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+from statsmodels.tsa.api import VAR
+import sklearn.metrics as metrics
+from sklearn.model_selection import train_test_split
+
+#import shap #explainable AI - XAI
+from sklearn.ensemble import RandomForestRegressor
+
+import itertools`
